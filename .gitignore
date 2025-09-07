@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# Build/outputs
+outputs/
+uploads/
+
+# OS / editor junk
+.DS_Store
+*.log
